@@ -4,3 +4,4 @@ __pycache__/
 project/classifier/__pycache__/
 project/classifier/__pycache__/classifier.cpython-36.pyc
 venv/
+GoogleNews-vectors-negative300.bin.gz
