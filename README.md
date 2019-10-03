@@ -20,3 +20,7 @@ https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-st
 https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb
 
 Todos os direitos reservados ao autor. Meu objetivo é disponibilizar material de qualidade em lingua portuguesa para impulsionar o ecosistema em torno da temática em questão.
+
+Para vizualizar todo o material, faça clone do projeto, instale as depedências e rode o notebook. Caso queira vizualizar por aqui mesmo, acesse o link abaixo ou abra o arquivo com extensão ".ipynb":
+
+https://github.com/ErickCosta/nlp-beginner/blob/master/Guia%20B%C3%A1sico%20-%20Processamento%20de%20Linguagem%20Natural.ipynb
